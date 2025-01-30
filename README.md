@@ -1,6 +1,6 @@
 # EEE-485-Term-Project
 ## Introduction
-This is the term project for the **EEE 485 Statistical Learning and Data Analytics** course. The project focuses on predicting heart disease using machine learning algorithms, including **Logistic Regression**, **Multi-Layer Perceptron (MLP)**, and **Decision Trees**. It aims to evaluate the performance of different supervised learning models on the **Heart Disease Cleveland UCI dataset** from Kaggle, containing 297 samples and 13 key features related to cardiovascular health.
+This is the term project for the **EEE 485 Statistical Learning and Data Analytics** course. The project focuses on predicting heart disease using and coding machine learning algorithms from scratch, including **Logistic Regression**, **Multi-Layer Perceptron (MLP)**, and **Decision Trees**. It aims to evaluate the performance of different supervised learning models on the **Heart Disease Cleveland UCI dataset** from Kaggle, containing 297 samples and 13 key features related to cardiovascular health.
 
 
 ## Core Achievements
